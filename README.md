@@ -6,8 +6,10 @@
 	
 	## The main idea:
 
-
-	**Parsers ask for permission to parse from a fast atomic counter, when the counter overflows, then data is saving into the storage and then to the file, after that the time delay is calculated and applied if it is needed**
+	#  Parsers ask for permission to parse from a fast atomic counter, 
+    when the counter overflows, then data is saving into the storage 
+    and then to the file, after that the time delay is calculated 
+    and applied if it is needed
 
 	
 	
