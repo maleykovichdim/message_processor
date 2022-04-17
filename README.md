@@ -5,10 +5,10 @@
 	development envirounment: C++17, Visual Studio 2019, Windows 10
 	
 	## The main idea:
-    <MTMarkdownOptions output='raw'> 
-	parsers ask for permission to parse from a fast atomic, when the counter overflows,
+
+	### Parsers ask for permission to parse from a fast atomic, when the counter overflows,
 	then data is saving into the storage and then to the file, after that the time delay is calculated and applied if it is needed
-    </MTMarkdownOptions>
+
 	
 	
 	## files:
